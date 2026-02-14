@@ -1,0 +1,514 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>HBA Field Schedule</title>
+
+  <style>
+    :root{
+      /* HBA-ish palette (navy / carolina blue / gray) */
+      --navy:#0b1f3b;
+      --blue:#4aa3df;
+      --blue-2:#2f7fb8;
+      --gray-0:#f6f8fb;
+      --gray-1:#eef2f7;
+      --gray-2:#dde5ee;
+      --text:#0f172a;
+      --muted:#475569;
+      --card:#ffffff;
+      --shadow: 0 8px 30px rgba(2, 8, 23, .08);
+      --radius: 16px;
+    }
+
+    *{ box-sizing:border-box; }
+    body{
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      color:var(--text);
+      background: radial-gradient(1200px 600px at 20% -10%, rgba(74,163,223,.20), transparent 70%),
+                  radial-gradient(1000px 500px at 90% 0%, rgba(11,31,59,.16), transparent 65%),
+                  var(--gray-0);
+    }
+
+    .wrap{ max-width: 1100px; margin: 18px auto 40px; padding: 0 14px; }
+
+    /* Header */
+    .top{
+      display:flex;
+      gap:14px;
+      align-items:center;
+      justify-content:space-between;
+      margin-bottom:14px;
+      padding: 16px 18px;
+      background: linear-gradient(135deg, var(--navy), #102a57);
+      color:#fff;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+    .brand{
+      display:flex; align-items:center; gap:12px;
+      min-width: 240px;
+    }
+    .logo{
+      width:44px; height:44px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, var(--blue), #8bd0ff);
+      display:grid; place-items:center;
+      color: var(--navy);
+      font-weight:900;
+      letter-spacing:.5px;
+      box-shadow: 0 10px 20px rgba(0,0,0,.18);
+      flex: 0 0 auto;
+    }
+    .title{
+      display:flex; flex-direction:column; gap:2px;
+      line-height:1.1;
+    }
+    .title h1{
+      font-size: 18px; margin:0;
+      letter-spacing:.2px;
+    }
+    .title .sub{ font-size: 12px; opacity:.85; margin:0; }
+
+    .top .right{
+      display:flex; gap:10px; align-items:center; justify-content:flex-end; flex-wrap:wrap;
+    }
+
+    .pill{
+      display:inline-flex; align-items:center; gap:8px;
+      padding: 8px 10px;
+      background: rgba(255,255,255,.10);
+      border: 1px solid rgba(255,255,255,.18);
+      border-radius: 999px;
+      font-size: 12px;
+      white-space:nowrap;
+    }
+    .pill strong{ font-weight:800; }
+
+    /* Controls card */
+    .card{
+      background: var(--card);
+      border: 1px solid var(--gray-2);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow:hidden;
+    }
+
+    .controls{
+      padding: 14px 14px 10px;
+      background: linear-gradient(180deg, #fff, rgba(246,248,251,.9));
+      border-bottom: 1px solid var(--gray-2);
+    }
+
+    .grid{
+      display:grid;
+      grid-template-columns: 1.1fr 1.1fr 1fr 1fr 1fr;
+      gap: 10px;
+      align-items:end;
+    }
+    @media (max-width: 980px){
+      .grid{ grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 520px){
+      .grid{ grid-template-columns: 1fr; }
+      .brand{ min-width: 0; }
+    }
+
+    label{
+      display:block;
+      font-size: 12px;
+      color: var(--muted);
+      margin: 0 0 6px 2px;
+    }
+
+    select, input[type="date"], input[type="search"]{
+      width: 100%;
+      padding: 10px 12px;
+      border-radius: 12px;
+      border: 1px solid var(--gray-2);
+      background: #fff;
+      font-size: 14px;
+      outline: none;
+      transition: box-shadow .15s ease, border-color .15s ease;
+    }
+    select:focus, input:focus{
+      border-color: rgba(74,163,223,.8);
+      box-shadow: 0 0 0 4px rgba(74,163,223,.20);
+    }
+
+    .btns{
+      display:flex; gap:10px; justify-content:flex-end; flex-wrap:wrap;
+    }
+    button{
+      padding: 10px 12px;
+      border-radius: 12px;
+      border: 1px solid var(--gray-2);
+      background: #fff;
+      color: var(--text);
+      cursor: pointer;
+      font-weight: 700;
+      transition: transform .04s ease, box-shadow .15s ease, border-color .15s ease;
+    }
+    button:hover{
+      border-color: rgba(74,163,223,.65);
+      box-shadow: 0 10px 20px rgba(2,8,23,.06);
+    }
+    button:active{ transform: translateY(1px); }
+    .primary{
+      background: linear-gradient(135deg, var(--blue), var(--blue-2));
+      color:#fff;
+      border-color: transparent;
+    }
+
+    .meta{
+      padding: 10px 14px;
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap:10px;
+      flex-wrap:wrap;
+      color: var(--muted);
+      font-size: 13px;
+      background: #fff;
+    }
+    .meta .count{
+      display:inline-flex; gap:8px; align-items:center;
+    }
+    .dot{
+      width:10px; height:10px; border-radius:50%;
+      background: var(--blue);
+      box-shadow: 0 0 0 4px rgba(74,163,223,.18);
+    }
+
+    /* Table */
+    .table-wrap{
+      overflow:auto;
+      max-height: 68vh;
+      background: #fff;
+    }
+    table{
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 820px;
+    }
+
+    thead th{
+      position: sticky;
+      top: 0;
+      background: #0f2342;
+      color: #fff;
+      z-index: 2;
+      font-weight: 800;
+      letter-spacing: .2px;
+      font-size: 13px;
+      text-align:left;
+      padding: 12px 12px;
+      border-bottom: 1px solid rgba(255,255,255,.12);
+      white-space:nowrap;
+    }
+
+    tbody td{
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--gray-1);
+      font-size: 14px;
+      vertical-align: middle;
+      white-space:nowrap;
+    }
+
+    tbody tr:nth-child(odd) td{ background: #fff; }
+    tbody tr:nth-child(even) td{ background: #fbfdff; }
+    tbody tr:hover td{ background: rgba(74,163,223,.10); }
+
+    .team-pill{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(74,163,223,.35);
+      background: rgba(74,163,223,.10);
+      color: #0b1f3b;
+      font-weight: 800;
+    }
+    .time{
+      font-variant-numeric: tabular-nums;
+      font-weight: 800;
+      color: #0b1f3b;
+    }
+    .muted{ color: var(--muted); }
+    .foot{
+      padding: 12px 14px 14px;
+      font-size: 12px;
+      color: var(--muted);
+      background: linear-gradient(180deg, #fff, rgba(246,248,251,.9));
+      border-top: 1px solid var(--gray-2);
+    }
+    code{ background: rgba(15,23,42,.08); padding: 2px 6px; border-radius: 8px; }
+    .warn{ color:#a15c00; font-weight:700; }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <div class="top">
+      <div class="brand">
+        <div class="logo">HBA</div>
+        <div class="title">
+          <h1>Field Schedule</h1>
+          <p class="sub">Filter by team, field, dates, and search (ex: “5-8”, “Evamere”).</p>
+        </div>
+      </div>
+
+      <div class="right">
+        <div class="pill"><strong>Tip:</strong> bookmark this page</div>
+        <div class="pill"><strong>Data:</strong> <span id="range">—</span></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="controls">
+        <div class="grid">
+          <div>
+            <label for="team">Team</label>
+            <select id="team"></select>
+          </div>
+
+          <div>
+            <label for="field">Field</label>
+            <select id="field"></select>
+          </div>
+
+          <div>
+            <label for="startDate">Start date</label>
+            <input id="startDate" type="date" />
+          </div>
+
+          <div>
+            <label for="endDate">End date</label>
+            <input id="endDate" type="date" />
+          </div>
+
+          <div>
+            <label for="q">Search</label>
+            <input id="q" type="search" placeholder="Type to filter…" />
+          </div>
+        </div>
+
+        <div style="margin-top: 10px" class="btns">
+          <button id="today">Jump to today</button>
+          <button id="clearSearch">Clear search</button>
+          <button id="reset" class="primary">Reset all</button>
+        </div>
+      </div>
+
+      <div class="meta">
+        <div class="count"><span class="dot"></span><span id="metaText">Loading…</span></div>
+        <div class="muted" id="metaHint"></div>
+      </div>
+
+      <div class="table-wrap">
+        <table aria-label="HBA schedule table">
+          <thead>
+            <tr>
+              <th style="width:110px">Date</th>
+              <th style="width:160px">Field</th>
+              <th style="width:240px">Team</th>
+              <th style="width:100px">Start</th>
+              <th style="width:100px">End</th>
+            </tr>
+          </thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+
+      <div class="foot">
+        Hosting: GitHub Pages • Data file: <code>schedule.json</code> (same folder as <code>index.html</code>)
+      </div>
+    </div>
+  </div>
+
+<script>
+  const DATA_URL = "schedule.json";
+
+  const monthMap = {Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11};
+  const pad = n => String(n).padStart(2,"0");
+  const toISODate = d => `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`;
+
+  function parseDateFlexible(s){
+    // expects "1-Apr"
+    const parts = String(s).trim().split("-");
+    if(parts.length !== 2) return null;
+    const day = parseInt(parts[0], 10);
+    const mon = monthMap[parts[1]];
+    const year = new Date().getFullYear(); // season-year assumption
+    if(Number.isNaN(day) || mon === undefined) return null;
+    return new Date(year, mon, day);
+  }
+
+  function within(dISO, startISO, endISO){
+    return dISO >= startISO && dISO <= endISO;
+  }
+
+  let data = [];
+  let minD = null, maxD = null;
+
+  async function load(){
+    const metaText = document.getElementById("metaText");
+    const metaHint = document.getElementById("metaHint");
+
+    try{
+      const resp = await fetch(DATA_URL, { cache: "no-store" });
+      if(!resp.ok) throw new Error("Could not load schedule.json (check it’s uploaded next to index.html).");
+      data = await resp.json();
+    }catch(e){
+      metaText.innerHTML = `<span class="warn">Error:</span> ${e.message}`;
+      return;
+    }
+
+    // Enrich + filter valid date rows
+    data = data.map(r => {
+      const dObj = parseDateFlexible(r.Date);
+      return {
+        Date: r.Date,
+        Field: r.Field,
+        Team: r.Team,
+        Start: r["Start Time"],
+        End: r["End Time"],
+        _dateObj: dObj,
+        _dateISO: dObj ? toISODate(dObj) : ""
+      };
+    }).filter(r => r._dateObj);
+
+    // Compute min/max
+    const ts = data.map(x => x._dateObj.getTime());
+    minD = new Date(Math.min(...ts));
+    maxD = new Date(Math.max(...ts));
+
+    document.getElementById("range").textContent = `${minD.toLocaleDateString()} → ${maxD.toLocaleDateString()}`;
+
+    // Fill dropdowns
+    const teamSel = document.getElementById("team");
+    const fieldSel = document.getElementById("field");
+
+    const teams = [...new Set(data.map(x=>x.Team))].sort();
+    const fields = [...new Set(data.map(x=>x.Field))].sort();
+
+    teamSel.innerHTML = `<option value="">All teams</option>` + teams.map(t=>`<option value="${escapeHtml(t)}">${escapeHtml(t)}</option>`).join("");
+    fieldSel.innerHTML = `<option value="">All fields</option>` + fields.map(f=>`<option value="${escapeHtml(f)}">${escapeHtml(f)}</option>`).join("");
+
+    // Default dates
+    const startInput = document.getElementById("startDate");
+    const endInput = document.getElementById("endDate");
+    startInput.value = toISODate(minD);
+    endInput.value = toISODate(maxD);
+
+    // Wire up
+    const qInput = document.getElementById("q");
+    const resetBtn = document.getElementById("reset");
+    const clearSearchBtn = document.getElementById("clearSearch");
+    const todayBtn = document.getElementById("today");
+
+    const render = () => {
+      const team = teamSel.value;
+      const field = fieldSel.value;
+      const startISO = startInput.value;
+      const endISO = endInput.value;
+      const q = qInput.value.trim().toLowerCase();
+
+      // filter
+      let filtered = data
+        .filter(x => !team || x.Team === team)
+        .filter(x => !field || x.Field === field)
+        .filter(x => within(x._dateISO, startISO, endISO));
+
+      if(q){
+        filtered = filtered.filter(x =>
+          `${x.Date} ${x.Field} ${x.Team} ${x.Start} ${x.End}`.toLowerCase().includes(q)
+        );
+      }
+
+      // sort stable: date, start, field, team
+      filtered.sort((a,b)=>
+        (a._dateObj - b._dateObj) ||
+        a.Start.localeCompare(b.Start) ||
+        a.Field.localeCompare(b.Field) ||
+        a.Team.localeCompare(b.Team)
+      );
+
+      // render rows
+      const tbody = document.getElementById("rows");
+      tbody.innerHTML = "";
+      for(const x of filtered){
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td><strong>${escapeHtml(x.Date)}</strong></td>
+          <td>${escapeHtml(x.Field)}</td>
+          <td><span class="team-pill">${escapeHtml(x.Team)}</span></td>
+          <td class="time">${escapeHtml(x.Start)}</td>
+          <td class="time">${escapeHtml(x.End)}</td>
+        `;
+        tbody.appendChild(tr);
+      }
+
+      // meta
+      metaText.textContent = `${filtered.length} reservations shown`;
+      metaHint.textContent = q ? `Search active: “${qInput.value.trim()}”` : "";
+    };
+
+    resetBtn.addEventListener("click", () => {
+      teamSel.value = "";
+      fieldSel.value = "";
+      qInput.value = "";
+      startInput.value = toISODate(minD);
+      endInput.value = toISODate(maxD);
+      render();
+    });
+
+    clearSearchBtn.addEventListener("click", () => {
+      qInput.value = "";
+      render();
+      qInput.focus();
+    });
+
+    todayBtn.addEventListener("click", () => {
+      const today = new Date();
+      const iso = toISODate(today);
+      // clamp to range if outside
+      if(iso < toISODate(minD)){
+        startInput.value = toISODate(minD);
+        endInput.value = toISODate(minD);
+      }else if(iso > toISODate(maxD)){
+        startInput.value = toISODate(maxD);
+        endInput.value = toISODate(maxD);
+      }else{
+        startInput.value = iso;
+        endInput.value = iso;
+      }
+      render();
+    });
+
+    ["change","input"].forEach(evt=>{
+      teamSel.addEventListener(evt, render);
+      fieldSel.addEventListener(evt, render);
+      startInput.addEventListener(evt, render);
+      endInput.addEventListener(evt, render);
+      qInput.addEventListener(evt, render);
+    });
+
+    render();
+  }
+
+  function escapeHtml(str){
+    return String(str)
+      .replaceAll("&","&amp;")
+      .replaceAll("<","&lt;")
+      .replaceAll(">","&gt;")
+      .replaceAll('"',"&quot;")
+      .replaceAll("'","&#039;");
+  }
+
+  load();
+</script>
+</body>
+</html>
