@@ -1,0 +1,3824 @@
+[
+  {
+    "Date": "1-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "13:00",
+    "End Time": "16:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "8-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "10-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "16:00",
+    "End Time": "19:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "09:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "13-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "15-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "17-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "18-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "13:00",
+    "End Time": "16:00"
+  },
+  {
+    "Date": "19-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "09:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "20-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "22-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "27-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "29-Apr",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "8-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "13:00",
+    "End Time": "16:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "13-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "16:00",
+    "End Time": "19:00"
+  },
+  {
+    "Date": "17-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "09:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "18-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "22-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "23-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "13:00",
+    "End Time": "16:00"
+  },
+  {
+    "Date": "24-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-May",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "1-Jun",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "5-Jun",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Jun",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "13:00",
+    "End Time": "16:00"
+  },
+  {
+    "Date": "7-Jun",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-Jun",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "17-Jun",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-Jun",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Jun",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "13:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "21-Jun",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "08:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "24-Jun",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "1-Jul",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Jul",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "13:00",
+    "End Time": "16:00"
+  },
+  {
+    "Date": "5-Jul",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Jul",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Jul",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "16:00",
+    "End Time": "19:00"
+  },
+  {
+    "Date": "12-Jul",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "09:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "13-Jul",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jul",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "13:00",
+    "End Time": "16:00"
+  },
+  {
+    "Date": "19-Jul",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Jul",
+    "Field": "Evamere",
+    "Team": "8u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "1-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "3-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "16:00",
+    "End Time": "19:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "09:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "6-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "8-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "13:00",
+    "End Time": "16:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "13-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "17-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "16:00",
+    "End Time": "19:00"
+  },
+  {
+    "Date": "19-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "22-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "29-Apr",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "1-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "16:00",
+    "End Time": "19:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "09:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "11-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "13:00",
+    "End Time": "16:00"
+  },
+  {
+    "Date": "17-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "23-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "16:00",
+    "End Time": "19:00"
+  },
+  {
+    "Date": "24-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "09:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "25-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "29-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "13:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "31-May",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "08:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-Jun",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Jun",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "16:00",
+    "End Time": "19:00"
+  },
+  {
+    "Date": "7-Jun",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "09:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "8-Jun",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-Jun",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "22-Jun",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "29-Jun",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-Jul",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Jul",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "16:00",
+    "End Time": "19:00"
+  },
+  {
+    "Date": "5-Jul",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "09:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "10-Jul",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Jul",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "13:00",
+    "End Time": "16:00"
+  },
+  {
+    "Date": "12-Jul",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "17-Jul",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jul",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "16:00",
+    "End Time": "19:00"
+  },
+  {
+    "Date": "19-Jul",
+    "Field": "Evamere",
+    "Team": "8u White",
+    "Start Time": "09:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "1-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "7-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "13-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "17-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "19-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "21-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "27-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "29-Apr",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "2-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "3-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "5-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "12-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "23-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "24-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "28-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "31-May",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-Jun",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "8-Jun",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-Jun",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Jun",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "08:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "21-Jun",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "22-Jun",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "26-Jun",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-Jun",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "28-Jun",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "2-Jul",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-Jul",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Jul",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "12-Jul",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "18-Jul",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "19-Jul",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Jul",
+    "Field": "Sosebee",
+    "Team": "9u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "1-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "3-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "7-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "9-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "13-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "15-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "17-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "18-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "19-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "21-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "29-Apr",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "6-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "13-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "23-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "24-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "25-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "29-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "31-May",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "4-Jun",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Jun",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "08:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "7-Jun",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "08:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "9-Jun",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "17-Jun",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "23-Jun",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-Jun",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "28-Jun",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "29-Jun",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-Jul",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Jul",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "5-Jul",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "11-Jul",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "12-Jul",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "13-Jul",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jul",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-Jul",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "21-Jul",
+    "Field": "Sosebee",
+    "Team": "9u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "8-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "14-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "18-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "19-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "22-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "28-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-Apr",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "1-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "3-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "7-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "14-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "21-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "23-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "24-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "26-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "31-May",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "1-Jun",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-Jun",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jun",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "24-Jun",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-Jun",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "28-Jun",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-Jun",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Jul",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Jul",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "12-Jul",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-Jul",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jul",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "19-Jul",
+    "Field": "Sosebee",
+    "Team": "10u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "2-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "6-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "8-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "10-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "14-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "16-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "20-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "22-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "28-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "30-Apr",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "3-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "4-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "11-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "08:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "17-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "08:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "22-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-May",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-Jun",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "5-Jun",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Jun",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "7-Jun",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-Jun",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-Jun",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Jun",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "21-Jun",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "25-Jun",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "28-Jun",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "1-Jul",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-Jul",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Jul",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "12-Jul",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "17-Jul",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jul",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "19-Jul",
+    "Field": "Sosebee",
+    "Team": "10u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "1-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "7-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "13-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "21-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "27-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "29-Apr",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "5-May",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "12-May",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-May",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "28-May",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-May",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "08:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "31-May",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-Jun",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Jun",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "08:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "7-Jun",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "08:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "8-Jun",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-Jun",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-Jun",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Jun",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "21-Jun",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "22-Jun",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-Jul",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Jul",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "5-Jul",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-Jul",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Jul",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "12-Jul",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "18-Jul",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "19-Jul",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Jul",
+    "Field": "Schilling",
+    "Team": "11u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "1-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "3-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "7-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "9-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "13-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "15-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "17-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "18-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "08:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "08:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "21-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "29-Apr",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "08:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "3-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "7-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "13-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "23-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "08:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "24-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "25-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "29-May",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Jun",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-Jun",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "17-Jun",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Jun",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "21-Jun",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "23-Jun",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-Jun",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "28-Jun",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "29-Jun",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-Jul",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Jul",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "5-Jul",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "11-Jul",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "12-Jul",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "13-Jul",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jul",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-Jul",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "21-Jul",
+    "Field": "Schilling",
+    "Team": "11u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "8-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "14-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "20-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "22-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "28-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-Apr",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "1-May",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-May",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-May",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "08:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "14-May",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "21-May",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "26-May",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-May",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "31-May",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "08:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "1-Jun",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "5-Jun",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jun",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "24-Jun",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-Jun",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "28-Jun",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-Jun",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Jul",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "5-Jul",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "6-Jul",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Jul",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "12-Jul",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-Jul",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jul",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "19-Jul",
+    "Field": "Schilling",
+    "Team": "12u Blue",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "2-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "6-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "8-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "10-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "14-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "16-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "17-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "22-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "28-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "30-Apr",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-May",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "11-May",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-May",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "22-May",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "23-May",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "14:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "24-May",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "08:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "27-May",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-Jun",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-Jun",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-Jun",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Jun",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "21-Jun",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "25-Jun",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-Jun",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "28-Jun",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "1-Jul",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Jul",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "5-Jul",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "9-Jul",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Jul",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "12-Jul",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "08:00",
+    "End Time": "11:00"
+  },
+  {
+    "Date": "17-Jul",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jul",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "11:00",
+    "End Time": "14:00"
+  },
+  {
+    "Date": "19-Jul",
+    "Field": "Schilling",
+    "Team": "12u White",
+    "Start Time": "14:00",
+    "End Time": "17:00"
+  },
+  {
+    "Date": "1-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "3-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "11:00",
+    "End Time": "15:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "15:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "7-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "8-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "10-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "11:00",
+    "End Time": "15:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "15:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "13-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "14-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "16-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "21-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "22-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "28-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "29-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-Apr",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "4-May",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-May",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "8-May",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "11:00",
+    "End Time": "15:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "15:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "12-May",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "14-May",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-May",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "20-May",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "26-May",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "28-May",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "1-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "4-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "7-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "11:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "8-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "17-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "22-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "23-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "24-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "25-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "29-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-Jun",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "1-Jul",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "2-Jul",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "6-Jul",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-Jul",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "13-Jul",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-Jul",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "17-Jul",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-Jul",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "11:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-Jul",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "11:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "20-Jul",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "21-Jul",
+    "Field": "Barlow D",
+    "Team": "13u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "1-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "2-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "3-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "4-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "15:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "5-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "11:00",
+    "End Time": "15:00"
+  },
+  {
+    "Date": "6-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "7-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "8-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "9-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "11-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "15:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "12-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "11:00",
+    "End Time": "15:00"
+  },
+  {
+    "Date": "13-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "14-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "15-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "16-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "20-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "21-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "22-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "27-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "28-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "29-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "18:30"
+  },
+  {
+    "Date": "30-Apr",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "1-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "5-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "7-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "9-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "15:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "10-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "11:00",
+    "End Time": "15:00"
+  },
+  {
+    "Date": "11-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "13-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "15-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "18-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "19-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "18:30",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "21-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "25-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "27-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "29-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "30-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "11:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "31-May",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "11:00",
+    "End Time": "20:00"
+  },
+  {
+    "Date": "5-Jun",
+    "Field": "Barlow D",
+    "Team": "14u Blue",
+    "Start Time": "17:00",
+    "End Time": "20:00"
+  }
+]

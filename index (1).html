@@ -1,0 +1,186 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>HBA Field Schedule Viewer</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 16px; }
+    h2 { margin: 0 0 8px 0; }
+    .sub { color:#555; margin:0 0 14px 0; }
+    .row { display:flex; gap:12px; flex-wrap:wrap; margin-bottom:12px; align-items:end; }
+    label { font-size: 13px; color:#333; }
+    select,input { padding:8px; font-size:14px; min-width: 180px; }
+    button { padding:8px 12px; font-size:14px; cursor:pointer; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ddd; padding: 8px; font-size: 14px; }
+    th { position: sticky; top: 0; background: #f7f7f7; z-index: 1; }
+    tr:nth-child(even) td { background:#fbfbfb; }
+    .pill { display:inline-block; padding:2px 10px; border-radius: 999px; background:#eee; }
+    .meta { margin: 10px 0 12px; color:#333; }
+    .warn { color:#a15c00; }
+    .footer { margin-top: 14px; color:#666; font-size: 12px; }
+    .small { font-size: 12px; color:#666; }
+  </style>
+</head>
+<body>
+  <h2>HBA Field Schedule Viewer</h2>
+  <p class="sub">Filter by team/field and optionally a date range. (Times shown in 24-hour format.)</p>
+
+  <div class="row">
+    <label>Team<br/>
+      <select id="team"></select>
+    </label>
+
+    <label>Field<br/>
+      <select id="field"></select>
+    </label>
+
+    <label>Start Date<br/>
+      <input id="startDate" type="date" />
+    </label>
+
+    <label>End Date<br/>
+      <input id="endDate" type="date" />
+    </label>
+
+    <button id="reset">Reset</button>
+  </div>
+
+  <div class="meta" id="meta"></div>
+
+  <table>
+    <thead>
+      <tr>
+        <th style="width:110px">Date</th>
+        <th style="width:140px">Field</th>
+        <th>Team</th>
+        <th style="width:90px">Start</th>
+        <th style="width:90px">End</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+
+  <div class="footer">
+    <div class="small">Data source: <code>schedule.json</code> (hosted alongside this page)</div>
+  </div>
+
+<script>
+  // Put schedule.json in the same GitHub Pages folder as this index.html
+  const DATA_URL = "schedule.json";
+
+  const monthMap = {Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11};
+  function parseDateFlexible(s){
+    // accepts "1-Apr"
+    const parts = String(s).trim().split("-");
+    if(parts.length !== 2) return null;
+    const d = parseInt(parts[0], 10);
+    const mon = monthMap[parts[1]];
+    const year = new Date().getFullYear(); // season-year assumption
+    if(Number.isNaN(d) || mon === undefined) return null;
+    return new Date(year, mon, d);
+  }
+  function pad(n){ return String(n).padStart(2,"0"); }
+  function toISODate(dt){
+    return `${dt.getFullYear()}-${pad(dt.getMonth()+1)}-${pad(dt.getDate())}`;
+  }
+
+  let data = [];
+
+  async function load(){
+    try{
+      const resp = await fetch(DATA_URL, { cache: "no-store" });
+      if(!resp.ok) throw new Error("Could not load schedule.json");
+      data = await resp.json();
+    }catch(e){
+      document.getElementById("meta").innerHTML = `<span class="warn">Error:</span> ${e.message}. Make sure <code>index.html</code> and <code>schedule.json</code> are uploaded to the same GitHub Pages folder.`;
+      return;
+    }
+
+    // Normalize & enrich
+    data = data.map(r => {
+      const dObj = parseDateFlexible(r.Date);
+      return {
+        Date: r.Date,
+        Field: r.Field,
+        Team: r.Team,
+        Start: r["Start Time"],
+        End: r["End Time"],
+        _dateObj: dObj,
+        _dateISO: dObj ? toISODate(dObj) : ""
+      };
+    }).filter(r => r._dateObj);
+
+    // Dropdowns
+    const teamSel = document.getElementById("team");
+    const fieldSel = document.getElementById("field");
+
+    const teams = [...new Set(data.map(x=>x.Team))].sort();
+    const fields = [...new Set(data.map(x=>x.Field))].sort();
+
+    teamSel.innerHTML = `<option value="">All Teams</option>` + teams.map(t=>`<option value="${t}">${t}</option>`).join("");
+    fieldSel.innerHTML = `<option value="">All Fields</option>` + fields.map(f=>`<option value="${f}">${f}</option>`).join("");
+
+    // Default dates = min/max
+    const minT = Math.min(...data.map(x=>x._dateObj.getTime()));
+    const maxT = Math.max(...data.map(x=>x._dateObj.getTime()));
+    const minD = new Date(minT);
+    const maxD = new Date(maxT);
+
+    const startInput = document.getElementById("startDate");
+    const endInput = document.getElementById("endDate");
+    startInput.value = toISODate(minD);
+    endInput.value = toISODate(maxD);
+
+    function render(){
+      const team = teamSel.value;
+      const field = fieldSel.value;
+      const start = startInput.value;
+      const end = endInput.value;
+
+      const filtered = data
+        .filter(x => !team || x.Team === team)
+        .filter(x => !field || x.Field === field)
+        .filter(x => x._dateISO >= start && x._dateISO <= end)
+        .sort((a,b)=> (a._dateObj - b._dateObj) || a.Start.localeCompare(b.Start) || a.Field.localeCompare(b.Field) || a.Team.localeCompare(b.Team));
+
+      const tbody = document.getElementById("rows");
+      tbody.innerHTML = "";
+      for(const x of filtered){
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td>${x.Date}</td>
+          <td>${x.Field}</td>
+          <td><span class="pill">${x.Team}</span></td>
+          <td>${x.Start}</td>
+          <td>${x.End}</td>
+        `;
+        tbody.appendChild(tr);
+      }
+
+      document.getElementById("meta").textContent = `${filtered.length} reservations shown`;
+    }
+
+    document.getElementById("reset").addEventListener("click", () => {
+      teamSel.value = "";
+      fieldSel.value = "";
+      startInput.value = toISODate(minD);
+      endInput.value = toISODate(maxD);
+      render();
+    });
+
+    ["change","input"].forEach(evt=>{
+      teamSel.addEventListener(evt, render);
+      fieldSel.addEventListener(evt, render);
+      startInput.addEventListener(evt, render);
+      endInput.addEventListener(evt, render);
+    });
+
+    render();
+  }
+
+  load();
+</script>
+</body>
+</html>
